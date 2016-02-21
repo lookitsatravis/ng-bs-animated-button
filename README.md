@@ -8,12 +8,18 @@ http://jeremypeters.github.io/ng-bs-animated-button/
 
 ## Usage
 1. Install via Bower:
- 
+
   ```console
   bower install ng-bs-animated-button
   ```
 
-2. Include `ng-bs-animated-button.js` and `ng-bs-animated-button.css` in your app. They should be located at `bower_components/ng-bs-animated-button/`.
+  or via NPM:
+
+  ```console
+  npm install ng-bs-animated-button
+  ```
+
+2. Include `ng-bs-animated-button.js` and `ng-bs-animated-button.css` in your app. They should be located at `bower_components/ng-bs-animated-button/` or `node_modules/ng-bs-animated-button`.
 
 3. Add `jp.ng-bs-animated-button` as a module dependency to your app:
 

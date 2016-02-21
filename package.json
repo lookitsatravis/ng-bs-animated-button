@@ -1,0 +1,27 @@
+{
+  "name": "ng-bs-animated-button",
+  "version": "2.0.3",
+  "description": "Angular/Bootstrap animated submit button directive",
+  "main": "ng-bs-animated-button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremypeters/ng-bs-animated-button.git"
+  },
+  "keywords": [
+    "Angular",
+    "AngularJS",
+    "Bootstrap",
+    "submit",
+    "form",
+    "button"
+  ],
+  "author": "Jeremy Peters <jezpeters@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremypeters/ng-bs-animated-button/issues"
+  },
+  "homepage": "https://github.com/jeremypeters/ng-bs-animated-button#readme"
+}
